@@ -13,8 +13,8 @@ Develop a machine learning model to predict weather conditions based on historic
 
 5.Evaluate the model using classification metrics and make predictions on new data.
 
-### DEVELOPED BY: D.B.V. SAI GANESH
-### REGISTER NO: 212223240025
+### DEVELOPED BY: P.Aditya Naga Sai
+### REGISTER NO: 212223110036
 
 ### PROGRAM
 ```
